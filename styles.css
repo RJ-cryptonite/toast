@@ -1,6 +1,13 @@
 body{
-  background-color: powderblue;
+  background-image:url("header.jpg");
 }
 h1{
-  color:black ;text-align: center;font-style: normal;font-family: monospace;
-}
+   font-style: italic;
+   color:white;
+   font-size:23;
+   text-align: center;
+ }
+
+ .carousel{
+   width=100px;
+ }
