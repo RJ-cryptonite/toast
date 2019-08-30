@@ -2,12 +2,14 @@ body{
   background-color:black;
 }
 h1{
-   font-style: italic;
+   font-style: normal;
    color:white;
    font-size:23;
    text-align: center;
-   font-family: monospace;
-
+   font-family: fantasy;
+ }
+ h5{
+   color: powderblue;
  }
 
  .carousel{
