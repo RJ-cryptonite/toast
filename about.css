@@ -2,8 +2,8 @@ body{
   background-image: url("collage.jpg");
 }
 h1{
-  color: white;
+  color: rgb(78,102,82); font-size: 30px
 }
 h2{
-  color: white;
+  color: grey;
 }
