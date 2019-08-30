@@ -9,7 +9,10 @@ h1{
    font-family: fantasy;
  }
  h5{
-   color: powderblue;
+   color: white;
+ }
+ p{
+   color: white;
  }
 
  .carousel{
