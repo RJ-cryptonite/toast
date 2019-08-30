@@ -92,3 +92,8 @@ span.price {
     margin-bottom: 20px;
   }
 }
+.header{
+  text-align: center;
+  text-decoration: underline;
+  color: violet;font-size: 100px;
+}
