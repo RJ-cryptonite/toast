@@ -1,13 +1,18 @@
 body{
-  background-image:url("header.jpg");
+  background-color:black;
 }
 h1{
    font-style: italic;
    color:white;
    font-size:23;
    text-align: center;
+
  }
 
  .carousel{
-   width=100px;
+   width=50px;
  }
+.link{
+   text-align:center;
+   color: white;
+}
